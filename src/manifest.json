@@ -16,7 +16,8 @@
         "https://mail.google.com/*",
         "https://calendar.google.com/*",
         "https://drive.google.com/*",
-        "https://meet.google.com/*"
+        "https://meet.google.com/*",
+        "https://www.google.com/photos/about/*"
       ],
       "js": ["content-script.js"]
     }
